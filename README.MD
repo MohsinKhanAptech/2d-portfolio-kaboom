@@ -6,7 +6,7 @@ and mobile.
 
 ![A screenshot of the project](./developerportfoliothumbnail.png)
 
-Live Demo : https://jslegenddev.github.io/portfolio/
+Live Demo : https://mohsinkhanaptech.github.io/2d-portfolio-kaboom/
 
 Watch the tutorial I followed to build this on YouTube : https://www.youtube.com/watch?v=gwtfWORCN0U
 
